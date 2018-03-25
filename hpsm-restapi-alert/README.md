@@ -135,4 +135,4 @@ To set passwordEncrypted in config.yaml, follow the steps below:
    	
 3. Set the resulting encrypted password in passwordEncrypted field and the encryption key used in encryptionKey field in config.yaml file
 
-
+Note: This alerting extension is based on the existing https://github.com/Appdynamics/servicenow-api-alerting-extension. Thanks!
