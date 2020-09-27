@@ -54,7 +54,7 @@ Please make sure to not use tab (\t) while editing yaml files. You may want to v
 
 ```
 	#HPSM Rest URL
-	url: "http://enavvmemdev02.adgm.com:13089/SM/9/rest/incidents"
+	url: "http://XXXXX:XXXXX/SM/9/rest/incidents"
 	
 	#HPSM Rest User (Basic Authentication)
 	username: "UserName"
